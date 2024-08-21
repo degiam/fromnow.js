@@ -1,0 +1,14 @@
+{
+  "name": "fromnow-js",
+  "version": "1.0.0",
+  "description": "FromNow.js merupakan library javascript untuk membuat tanggal menjadi seperti di sosmed, contoh: Baru saja, 3 jam yang lalu, dsb.",
+  "main": "dist/fromnow.min.js",
+  "keywords": [
+    "date",
+    "time",
+    "counter",
+    "social media"
+  ],
+  "author": "Degiam <degiam@outlook.com>, Dhimas <masaris.gk@gmail.com>",
+  "license": "MIT"
+}
